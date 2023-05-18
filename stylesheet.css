@@ -59,7 +59,7 @@ section h2,
 }
 
 .articles article a{
-    background-color: rgba(139, 223, 128, 0.705);
+    
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -93,6 +93,10 @@ section h2,
 
 .articles time {
     color: #8d8d8dd3;
+}
+
+#sports a{
+    background-color: rgba(139, 223, 128, 0.705);
 }
 
 #economia a{
