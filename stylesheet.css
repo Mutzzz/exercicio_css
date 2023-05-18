@@ -111,3 +111,9 @@ section h2,
     background-color: rgba(247, 57, 161, 0.61);
 }
 
+.globo {
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: underline;
+}
+
