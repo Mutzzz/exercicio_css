@@ -83,15 +83,27 @@ section h2,
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#Tecnologia {
+#tecnologia {
     background-color: rgba(90, 207, 207, 0.397);
 }
 
-#Entretenimento{
+#entretenimento{
     background-color: rgba(151, 60, 128, 0.37);
 }
 
 .articles time {
     color: #8d8d8dd3;
+}
+
+#economia a{
+    background-color: rgba(228, 224, 21, 0.733);
+}
+
+#tecnologia a{
+    background-color: rgba(0, 26, 255, 0.404);
+}
+
+#entretenimento a{
+    background-color: rgba(247, 57, 161, 0.61);
 }
 
